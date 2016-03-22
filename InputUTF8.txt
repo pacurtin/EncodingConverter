@@ -1,0 +1,2 @@
+﻿!@#$%^&*()_áÒ
+This is an example input file containing some special characters. It's saved as UTF-8 encoding. Output.txt will be an exact replica except encoded in ISO-8859-1.

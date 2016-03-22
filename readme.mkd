@@ -1,0 +1,5 @@
+Java programme to convert txt files from UTF-8 encoding to ISO-8859-1. Java path must be set on windows for this to work.
+
+Instructions:
+1. Name the file to be converted "InputUTF8.txt" and place it in the same directory as EncodingConverter.bat and EncodingConverter.jar.
+2. Double click EncodingConverter.bat and a file called "Output.txt" will be produced. This is an exact copy of "InputUTF8.txt" except it is ISO-8859-1 encoded. Bat files only work for windows. On other OS enter "java -jar EncodingConverter.jar" on command line.
